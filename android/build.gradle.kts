@@ -62,9 +62,9 @@ android {
 
 dependencies {
     // Mapbox Navigation SDK - Using stable version
-    implementation("com.mapbox.navigation:copilot:2.16.0")
-    implementation("com.mapbox.navigation:ui-app:2.16.0")
-    implementation("com.mapbox.navigation:ui-dropin:2.16.0")
+    implementation("com.mapbox.navigation:copilot:2.21.0")
+    implementation("com.mapbox.navigation:ui-app:2.21.0")
+    implementation("com.mapbox.navigation:ui-dropin:2.21.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22")
     implementation("com.jakewharton.timber:timber:5.0.1")
     implementation("com.google.code.gson:gson:2.10.1")
